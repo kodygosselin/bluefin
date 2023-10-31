@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/kodygosselin/bluefin/compare/v1.3.0...v1.4.0) (2023-10-31)
+
+
+### Features
+
+* remove gnome packages ([01ef292](https://github.com/kodygosselin/bluefin/commit/01ef292c7ee5fb5c61e1d42165a64dd1a4eb75fd))
+
 ## [1.3.0](https://github.com/kodygosselin/bluefin/compare/v1.2.0...v1.3.0) (2023-10-31)
 
 
