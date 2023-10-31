@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/kodygosselin/bluefin/compare/v1.2.0...v1.3.0) (2023-10-31)
+
+
+### Features
+
+* removed gnome ([97cca31](https://github.com/kodygosselin/bluefin/commit/97cca3134b6211eb974ff7a1f6ea7d27af663891))
+
 ## [1.2.0](https://github.com/kodygosselin/bluefin/compare/v1.3.0...v1.2.0) (2023-10-30)
 
 
